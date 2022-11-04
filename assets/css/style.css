@@ -23,7 +23,7 @@ h1  {
 }
 
 /* changes the seo part of Horiseon to be a different color than the rest of the text */
-h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -35,11 +35,12 @@ nav {
     font-size: 20px;
 }
 
-nav ul {
+/* Navbar unordered list, no nav infront needed since it's the only list*/
+ul {
     list-style-type: none;
 }
 
-nav ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
