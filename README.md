@@ -9,8 +9,15 @@
 
 ## Table of Contents
 
+- [Goal](#goal)
 - [Installation](#installation)
 - [Usage](#usage)
+
+## Goal
+
+This is what it's supposed to look like:
+
+![Image of the completed website](./assets/images/01-html-css-git-homework-demo.png)
 
 ## Installation
 
@@ -32,4 +39,4 @@ N/A
 
 ## Tests
 
-If the website loads properly, click on all three of the nav links at the top nav bar and see if they work
+If the website loads properly and looks like the [Goal](#goal), click on all three of the nav links at the top nav bar and see if they work
