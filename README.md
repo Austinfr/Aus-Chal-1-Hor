@@ -26,7 +26,7 @@ A web browser that is up to date.
 ## Usage
 
 1. Open a web browser
-2. Load up the webpage
+2. Load up the webpage at <https://austinfr.github.io/Aus-Chal-1-Hor/>
 3. Either:
     - Click over the nav bar links to find different parts of the webpage
     - Look through the code with right-clicking + inspect 
