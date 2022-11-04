@@ -35,12 +35,12 @@ nav {
     font-size: 20px;
 }
 
-/* Navbar unordered list, no nav infront needed since it's the only list*/
-ul {
+/* Navbar unordered list of ids */
+nav ul {
     list-style-type: none;
 }
 
-li {
+nav li {
     display: inline-block;
     margin-left: 25px;
 }
